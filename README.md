@@ -24,7 +24,11 @@ Frequency of accidents by hour of day
 Top 10 weather conditions during accidents
 Created an interactive Folium map showing accident locations using a random sample
 # Output
-![Screenshot 2025-05-05 183418](https://github.com/user-attachments/assets/bb8bdde6-4672-4f7a-8f56-56a2e49f2ecf)
+![Screenshot 2025-05-05 183451](https://github.com/user-attachments/assets/11829725-c900-4139-b8b4-17f0ab2b585b)
+![Screenshot 2025-05-05 183443](https://github.com/user-attachments/assets/44bd6ef5-fe2b-4cda-99ce-cb01e75d46b9)
+![Screenshot 2025-05-05 183432](https://github.com/user-attachments/assets/bfd688ac-dbc3-437f-be36-6983ff531e93)
+![Screenshot 2025-05-05 183418](https://github.com/user-attachments/assets/bdc61a04-e12b-4f08-ae14-753e3a7bc26a)
+
 
 # Dataset
 https://www.kaggle.com/code/harshalbhamare/us-accident-eda
